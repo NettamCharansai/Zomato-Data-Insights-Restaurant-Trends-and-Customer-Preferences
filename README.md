@@ -30,7 +30,7 @@ pip install pandas numpy matplotlib seaborn gradio
 ### Running the Project
 1. Clone this repository:
 ```sh
-git clone https://github.com/your-username/zomato-data-insights.git
+git clone https://github.com/NettamCharansai/zomato-data-insights.git
 cd zomato-data-insights
 ```
 2. Run the Jupyter Notebook:
